@@ -1,0 +1,98 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header{
+    margin-left: 100px;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+nav ul
+{
+    display:flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    margin-inline-start: 200px;
+
+}
+.b1
+{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 100px;
+    border-radius: 100px;
+    cursor: pointer;
+
+}
+footer{
+    bottom:0;
+    position:absolute;
+    margin-left: 500px;
+}
+.text
+{
+    font-size: 90px;
+    margin-left: 100px;
+}
+.main-section
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;   
+    margin-left: 100px;
+}
+.subdiv-1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subdiv-1 ul li
+{
+    list-style-type: none;
+}
+.music
+{
+    margin-left: 100px;
+}
+.b2
+{
+    margin-left: 50%;
+    background-color: aliceblue;
+    color: black;
+    padding: 20px;
+    width: 200px;
+    border-radius: 100px;
+    border-style: none;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 500px;
+}
+.logo
+{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+       
+}
+.logo1
+{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    
+}
+.text2
+{
+    margin-left: 100px;
+}
+
